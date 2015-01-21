@@ -3,7 +3,7 @@ title: NetTalks
 email: radu.stoenescu (la) cs.pub.ro
 description: > # this means to ignore newlines until "baseurl:"
   Program si resurse NetTalks 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/nettalks" # the subpath of your site, e.g. /blog/
 url: "http://radustoenescu.github.io/nettalks" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  radustoenescu
