@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "OpenNF"
+date:   2015-01-09
+categories: nfv openflow vm-migration scalability
+---
+
+Vladimir Olteanu prezinta "[OpenNF]: Enabling Innovation in Network Function Control".
+
+
+[OpenNF]:      http://opennf.cs.wisc.edu/docs/gember-jacobson2014opennf.pdf
