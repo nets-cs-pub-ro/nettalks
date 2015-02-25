@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "QUIC"
+date:   2015-02-25
+categories: protocols udp transport-protocols
+---
+
+Radu Stoenescu introduce [QUIC], un nou protocol de transport peste UDP,
+propus si dezvoltat de Google.
+
+_Prezentarea are loc vineri (27.02) de la ora 16:00, in EF 207._
+
+
+[QUIC]:      http://www.chromium.org/quic
