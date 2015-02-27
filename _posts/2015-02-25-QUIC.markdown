@@ -10,5 +10,6 @@ propus si dezvoltat de Google.
 
 _Prezentarea are loc vineri (27.02) de la ora 16:00, in EF 207._
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/45211065" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RaduStoenescu/introduction-to-quic-0rtt-secure-and-multiplexed-transport-from-google" title="Introduction to QUIC, 0-RTT, secure and multiplexed transport from Google" target="_blank">Introduction to QUIC, 0-RTT, secure and multiplexed transport from Google</a> </strong> from <strong><a href="//www.slideshare.net/RaduStoenescu" target="_blank">Radu Stoenescu</a></strong> </div>
 
 [QUIC]:      http://www.chromium.org/quic
