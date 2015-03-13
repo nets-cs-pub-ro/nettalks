@@ -9,7 +9,7 @@ Matei Popovici prezinta [NICE], o solutie de verificare pentru retelele ce folos
 
 Prezentarea poate sa para prea avansata fara o rasfoire in prealabil a articolului.
 
-_Prezentarea are loc vineri (13.03) de la ora 13:30 ~~14:00~~, in EF 207._
+_Prezentarea are loc vineri (13.03) de la ora 13:30 <strike>14:00</strike>, in EF 207._
 
 [NICE]: http://infoscience.epfl.ch/record/170618/files/nsdi-final
 [OpenFLOW]: http://en.wikipedia.org/wiki/OpenFlow
