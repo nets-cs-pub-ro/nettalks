@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "In-Net"
+date:   2015-04-16
+categories: nfv, static verification, scalability
+---
+
+[Costin Raiciu] prezinta "[In-Net]: In-Network Processing for the Masses".
+
+Intalinirea este o repetitie a prezentarii oficiale a articolului de la [Eurosys 2015] si are loc in sala EF217 joi, 16 aprilie, de la ora 14:00.
+
+[In-Net]:      http://nets.cs.pub.ro/~costin/files/change.pdf
+[Costin Raiciu]: http://nets.cs.pub.ro/~costin/
+[Eurosys 2015]: http://eurosys2015.labri.fr/
