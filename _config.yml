@@ -1,6 +1,6 @@
 # Site settings
 title: NetTalks
-email: radu.stoenescu (at) cs.pub.ro
+email: nettalks.3.radustoe @ spamgourmet.com
 description: > # this means to ignore newlines until "baseurl:"
   Program si resurse NetTalks 
 baseurl: "/nettalks" # the subpath of your site, e.g. /blog/
