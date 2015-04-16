@@ -2,7 +2,7 @@
 layout: post
 title:  "In-Net"
 date:   2015-04-16
-categories: nfv, static verification, scalability
+categories: nfv static-verification scalability
 ---
 
 [Costin Raiciu] prezinta "[In-Net]: In-Network Processing for the Masses".
